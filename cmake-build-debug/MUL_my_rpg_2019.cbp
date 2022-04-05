@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="MUL_my_rpg_2019"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/gregoire/MUL/MUL_my_rpg_2019/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/gregoire/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/gregoire/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/gregoire/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/gregoire/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/gregoire/MUL/MUL_my_rpg_2019/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/gregoire/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/gregoire/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/gregoire/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/gregoire/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/gregoire/MUL/MUL_my_rpg_2019/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/gregoire/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/gregoire/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/gregoire/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/gregoire/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MUL_my_rpg_2019">
+				<Option output="/home/gregoire/MUL/MUL_my_rpg_2019/cmake-build-debug/MUL_my_rpg_2019" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gregoire/MUL/MUL_my_rpg_2019/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gregoire/MUL/MUL_my_rpg_2019/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/gregoire/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 MUL_my_rpg_2019"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/gregoire/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/gregoire/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/gregoire/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="MUL_my_rpg_2019/fast">
+				<Option output="/home/gregoire/MUL/MUL_my_rpg_2019/cmake-build-debug/MUL_my_rpg_2019" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/gregoire/MUL/MUL_my_rpg_2019/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/gregoire/MUL/MUL_my_rpg_2019/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/gregoire/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 MUL_my_rpg_2019/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/gregoire/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/gregoire/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/gregoire/MUL/MUL_my_rpg_2019/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/include/my.h">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/include/my_rpg.h">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/include/my_rpg_struct.h">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/lib/my/my_itoa.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/lib/my/my_put_nbr.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/lib/my/my_putchar.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/lib/my/my_putstr.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/lib/my/my_str_to_word_array.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/lib/my/my_strlen.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/free/free_all.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/free/free_game.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/help.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/help_flag.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/main.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/quit.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/scenes/champ_selec/champ_select.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/scenes/champ_selec/display_champ.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/scenes/combat/attack_mage.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/scenes/combat/attack_warrior.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/scenes/combat/combat.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/scenes/combat/display_combat.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/scenes/combat/event_combat.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/scenes/death/death.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/scenes/death/death_event.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/scenes/game/display_game.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/scenes/game/event_game.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/scenes/game/game.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/scenes/game/hitbox_management.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/scenes/game/move.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/scenes/game/particles.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/scenes/inventory/inventory.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/scenes/inventory/inventory2.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/scenes/pause/animation_pause.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/scenes/pause/pause.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/scenes/settings/button_animation_s.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/scenes/settings/button_animation_s2.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/scenes/settings/display_setting.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/scenes/settings/mute.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/scenes/settings/option.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/scenes/settings/option2.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/scenes/settings/setting_menu.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/scenes/starting_menu/button_animation.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/scenes/starting_menu/display_menu.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/scenes/starting_menu/starting_menu.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/scenes/victory/victory.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/scenes/victory/victory_event.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/struct/init_audio.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/struct/init_combat.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/struct/init_combat_text.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/struct/init_death.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/struct/init_enemy_combat.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/struct/init_game.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/struct/init_help.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/struct/init_inventory.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/struct/init_menu.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/struct/init_pause.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/struct/init_scale_combat.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/struct/init_select.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/struct/init_settings.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/struct/init_sprites.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/struct/init_stat_array.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/struct/init_struct.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/struct/init_time.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/src/struct/init_victory.c">
+			<Option target="MUL_my_rpg_2019"/>
+		</Unit>
+		<Unit filename="/home/gregoire/MUL/MUL_my_rpg_2019/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
